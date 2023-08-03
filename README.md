@@ -10,7 +10,7 @@ Magdeburg.
 # 1) Develop a conceptual model of the street
 # 2) Collection of data for analysis and validation purposes
 # 3) Data analysis of the data sets 
-# 4) Simulating the traffic node in Analogic software
+# 4) Simulating the traffic node in Anylogic software
 # 5) Validation of the simulation program based on the data collected
 # 6) Different experimental scenarios and their performances
 # 7) Results
